@@ -1,0 +1,22 @@
+ls
+list of files and folders(directories).
+whatis - list of directory contents.
+whereis 
+
+sudo apt-get install sl (or) man apt
+sl
+ifconfig
+comgen-c
+generates all commands that are used
+
+list of files systems(google)
+unix files system - geeks for geeks
+
+unix files system
+what are files
+how the files are organised in unix?
+
+how to create our own command
+
+cd/bin
+what are the unix files
